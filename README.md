@@ -1,5 +1,7 @@
 # ahi-landing page
 
-This is Project: Landing Page by Ahi
+Leahi's first webpage using HTML and CSS
 
-Now I am changing one more thing so I can practice committing. After I save this message, I will commit this file, then push it and check it on GitHub from my browser and see if the new commits have showed up. 
+This is my first attempt at making a webpage, based off of everything I have learned from The Odin Project. HTML and CSS are the only languages implemented in this project, and the design of the webpage is based off of the webpage example given by TOP. 
+
+Images included on this webpage are either from photos I took myself, or from an open-source picture provider (e.g. Pexels). 
